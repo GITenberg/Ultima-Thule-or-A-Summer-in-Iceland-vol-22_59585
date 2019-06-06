@@ -1,5 +1,8 @@
 _repo: Ultima-Thule-or-A-Summer-in-Iceland-vol-22_59585
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59585-h/images/cover.jpg
 creator:
   author:
     agent_name: Burton, Richard Francis, Sir
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/898
     wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Burton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59585#Ultima-Thule-or-A-Summer-in-Iceland-vol-22
 gutenberg_issued: '2019-05-23'
 gutenberg_type: Text
 identifiers:
