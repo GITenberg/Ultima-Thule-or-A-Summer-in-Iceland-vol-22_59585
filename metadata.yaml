@@ -1,0 +1,32 @@
+_repo: Ultima-Thule-or-A-Summer-in-Iceland-vol-22_59585
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Burton, Richard F.
+    - Burton, R. F. (Richard F.), Sir
+    - Burton, Sir Richard Francis
+    - Baker, Frank
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Burton
+description: ''
+gutenberg_issued: '2019-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sulfur'
+- !lcc 'DL'
+- !lcsh 'Iceland'
+- !lcsh 'Iceland -- Description and travel'
+- GITenberg
+title: Ultima Thule; or, A Summer in Iceland. vol. 2/2
+url: http://www.gutenberg.org/ebooks/59585
